@@ -456,6 +456,10 @@ a{
     transition: 1s;
 }
 
+.nav-img-sp {
+    width: 70px;
+    transition: 1s;
+}
 
 .nav-img:hover,
 .nav-img-sp:hover {
@@ -463,10 +467,7 @@ a{
 }
 
 
-.nav-img-sp {
-    width: 70px;
-    transition: 1s;
-}
+
 
 footer {
     background: linear-gradient(180deg, #468eb1, #040404e6);
